@@ -1,0 +1,51 @@
+.Home{
+    display: flex;
+    height: 90vh;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+.Home img{
+    height: 700px;
+}
+
+.hero-text{
+    padding: 50px;
+}
+
+.hero-text p{
+    width: 600px;
+}
+
+.hero-text h1{
+    font-size: 4.5rem;
+    margin-bottom: 30px;
+}
+
+.body{
+    display: flex;
+}
+
+.bar{
+    background-color: #ff6819;
+    width: 7px;
+    margin: 0 20px 0 3px;
+}
+
+.jobs{
+    display: flex;
+    gap: 60px;
+    justify-content: start;
+    align-items: center;
+    height: 100px;
+}
+
+.faPencil{
+    color: #ff6819;
+  }
+  
+  .faCode{
+    color: #ff6819;
+  }
